@@ -67,7 +67,7 @@
 163.47.9.27,8443,SG,Digital Ocean
 83.142.30.5,2096,SG,Streamline Servers
 138.2.91.98,9711,SG,Oracle Cloud
-97.74.82.87,45837,SG,GoDaddy.com, LLC
+97.74.82.87,45837,SG,GoDaddy.com
 68.183.179.5,8443,SG,Digital Ocean
 129.150.62.1,24016,SG,Oracle Cloud
 152.69.210.245,2053,SG,Oracle Cloud
@@ -111,12 +111,12 @@
 158.178.240.232,10258,SG,Cloudflare Warp
 158.178.240.232,23559,SG,Cloudflare Warp
 152.69.220.136,53076,SG,Oracle Cloud
-164.52.2.100,443,SG,CDS Global Cloud CO., LTD
+164.52.2.100,443,SG,CDS Global Cloud CO.
 158.178.246.142,61731,SG,Oracle Cloud
 143.42.66.91,443,SG,M1
 160.22.79.174,443,SG,Onidel
-164.52.2.98,443,SG,CDS Global Cloud CO., LTD
-164.52.2.99,443,SG,CDS Global Cloud CO., LTD
+164.52.2.98,443,SG,CDS Global Cloud CO.
+164.52.2.99,443,SG,CDS Global Cloud CO.
 168.138.171.70,23280,SG,Oracle Cloud
 168.138.165.174,443,SG,Oracle Cloud
 168.138.184.142,19191,SG,Oracle Cloud
@@ -158,4 +158,4 @@
 150.109.24.233,6666,SG,Tencent cloud computing
 8.222.165.104,443,SG,Alibaba
 194.36.178.36,2053,SG,Neapol Group Ltd
-45.76.183.217,49292,SG,Vultr
+45.76.183.217,49292,SG,Vultr
